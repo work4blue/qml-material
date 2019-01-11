@@ -76,7 +76,7 @@ int main(int argc, char *argv[])
 
 ![image.png](https://upload-images.jianshu.io/upload_images/1493747-eb01abc2007017f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##三.plugins.qmltypes 生成
+##三 .plugins.qmltypes 生成
 在测试时,Android /iOS版本发现,运行总是提醒
 
 >W libdemo.so: [qrc:/main.qml:2](qrc:/main.qml:2) module "Material" is not installed
