@@ -147,7 +147,8 @@ Component {
         Property { name: "children"; type: "QObject"; isList: true; isReadonly: true }
     }
 ```
-##四. Android运行Material 演示
+## 四. Android运行Material 演示
+
 总结: 这套样式,对于如何用QML开发一个完整样式,有一定借鉴经验,但只在windows/Mac下测试通过,无法在Android运行.以下是部分运行测试经验,方
 因为完成一半的代码 在 https://github.com/work4blue/qml-material 
 这里直接编译qml--material 只要编译,demo.apk,在最后一步因为找不到插件报错.
